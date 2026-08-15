@@ -18,5 +18,5 @@ A web-based application designed to manage student course enrollments, instructo
 A web-based application designed to manage student courses, instructor assignments, and administrative workflows.
 
 ## Links
-- **Repository:** https://github.com/JamshedShahriar/Student-Course-Instruction
+- **Repository:** https://github.com/JamshedShahriar/Student-Course-Instructior
 - **Live Demo:** https://jamshedshahriar.github.io/Student-Course-Instruction/
