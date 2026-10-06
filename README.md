@@ -19,4 +19,4 @@ A web-based application designed to manage student courses, instructor assignmen
 
 ## Links
 - **Repository:** https://github.com/JamshedShahriar/Student-Course-Instructior
-- **Live Demo:** https://jamshedshahriar.github.io/Student-Course-Instruction/
+- **Live Demo:** [https://jamshedshahriar.github.io/Student-Course-Instruction/]
