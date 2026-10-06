@@ -12,11 +12,7 @@ A web-based application designed to manage student course enrollments, instructo
 - PHP
 - MySQL
 - HTML / CSS / JavaScript
-  
-- # Student Course Instructor
-
-A web-based application designed to manage student courses, instructor assignments, and administrative workflows.
 
 ## Links
-- **Repository:https://github.com/JamshedShahriar/Student-Course-Instruction
-- **Live Demo:** https://github.com/JamshedShahriar/Student-Course-Instructior
+- **Repository:** https://github.com/JamshedShahriar/Student-Course-Instruction
+- **Live Demo:** https://jamshedshahriar.github.io/Student-Course-Instruction/
