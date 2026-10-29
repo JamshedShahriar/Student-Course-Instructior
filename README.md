@@ -14,4 +14,4 @@ A web-based application designed to manage student course enrollments, instructo
 - HTML / CSS / JavaScript
 
 ## 🌐 Live Demo
-Click here to view the live website: [Live Demo Link]https://jamshedshahriar.github.io/Student-Course-Instructior/
+Click here to view the live website: [Live Demo Link](https://jamshedshahriar.github.io/Student-Course-Instructior/)
